@@ -1,10 +1,6 @@
-08fd33_4.mp4
-08fd33_4.avi
-
-venv
-yolov8x.pt
 models
 
+input_videos
 output_videos
 
 __pycache__
